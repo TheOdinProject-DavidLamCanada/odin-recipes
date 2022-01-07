@@ -1,42 +1,51 @@
 h1 {
-    font-size: 150px;
+    font-size: 300px;
     text-align: center;
-    color: dark;
+    color: darkorchid;
     font-family: cursive;
 }
 
 h2 {
     font-size: 90px;
-    color: purple;
+    color: darkviolet;
 }
 
 h3 {
     font-size: 80px;
-    color: purple;
+    color: darkorchid;
 }
 
 h4 {
     font-size: 60px;
+    color: darkviolet;
 }
 
 h5 {
-    font-size: 40px;
+    font-size: 45px;
+}
+
+h6 {
+    font-size: 45px;
+    text-align: center;
 }
 
 img {
     height: auto;
-    width: 1000px;
+    width: 2500px;
 }
 
 li {
-    font-size: 40px;
+    font-size: 45px;
 }
 p {
-    font-size: 40px;
+    font-size: 45px;
 }
 
 a {
     text-decoration: none;
-    color: brown;
+    color: blue;
 }
 
+body {
+    background-color: peachpuff;
+}
