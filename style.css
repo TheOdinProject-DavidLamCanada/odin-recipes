@@ -1,17 +1,17 @@
 #banner{
-        font-size: 300px;
+        font-size: 150px;
         font-family: cursive;
         text-align: center;
         color: whitesmoke;        
 }
 
 .recipe{
-        font-size: 90px;
+        font-size: 45px;
 }
 
 img{
     height: auto;
-    width: 2000px;
+    width: 500px;
 }
 
 body{
@@ -25,6 +25,6 @@ li{
 a{
     text-decoration: none;
     color: wheat;
-    border-image: 1000px;
+    border-image: 500x;
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
