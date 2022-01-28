@@ -1,50 +1,51 @@
 h1 {
-    font-size: 300px;
+    font-size: 80px;
     text-align: center;
     color: brown;
     font-family: cursive;
 }
 
 h2 {
-    font-size: 90px;
+    font-size: 35px;
     color: firebrick;
 }
 
 h3 {
-    font-size: 80px;
+    font-size: 25px;
     color: brown;
 }
 
 h4 {
-    font-size: 60px;
+    font-size: 20px;
     color: firebrick;
     font-style: italic;
 }
 
 h5 {
-    font-size: 45px;
+    font-size: 15px;
 }
 
 h6 {
-    font-size: 45px;
+    font-size: 15px;
     text-align: center;
 }
 
 img {
     height: auto;
-    width: 2500px;
+    width: 500px;
 }
 
 li {
-    font-size: 45px;
+    font-size: 15px;
 }
 p {
-    font-size: 45px;
+    font-size: 15px;
 }
 
 a {
     text-decoration: none;
     color: blue;
+    font-size: 15px;
 }
 
 body {
